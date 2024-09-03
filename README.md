@@ -43,3 +43,7 @@ If you encounter any issues or have suggestions for improvements, please open an
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+This project was inspired by [alfred-open-with-vscode](https://github.com/iamstevendao/alfred-open-with-vscode) by Steven Dao. Thanks for the great work!
